@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url("pec.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    width: 100%;
+}
+#sidebar {
+    background-color: black;
+    width: 5%;
+    padding: 15px;
+    position: fixed;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#peculiar {
+    width: 150px;
+    height: 150px;
+    border: 10px solid grey;
+    border-radius: 50%;
+}
+.side-img {
+    width: 50px;
+    height: 50px;
+    
+}
